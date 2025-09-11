@@ -775,7 +775,7 @@ export default function AxonodeLanding() {
                     <td className="px-6 py-4 text-gray-700">SFP-10G-SR</td>
                     <td className="px-6 py-4 font-semibold">
                       <a
-                        href="https://www.axonodesolution.com/Industrial_10G_1_25G_SFP-15/20.html"
+                        href="https://www.axonodesolution.com/1G_10G_SFP_Transceiver-37/20.html"
                         className="text-blue-600 hover:underline"
                       >
                         A-SFP-10G-SR-C
@@ -788,7 +788,7 @@ export default function AxonodeLanding() {
                     <td className="px-6 py-4 text-gray-700">SFP-10G-LR</td>
                     <td className="px-6 py-4 font-semibold">
                       <a
-                        href="https://www.axonodesolution.com/Industrial_10G_1_25G_SFP-15/20.html"
+                        href="https://www.axonodesolution.com/1G_10G_SFP_Transceiver-37/20.html"
                         className="text-blue-600 hover:underline"
                       >
                         A-SFP-10G-LR-C
@@ -801,7 +801,7 @@ export default function AxonodeLanding() {
                     <td className="px-6 py-4 text-gray-700">GLC-SX-MMD</td>
                     <td className="px-6 py-4 font-semibold">
                       <a
-                        href="https://www.axonodesolution.com/Industrial_10G_1_25G_SFP-15/18.html"
+                        href="https://www.axonodesolution.com/Industrial_SFP_Transceivers-15/18.html"
                         className="text-blue-600 hover:underline"
                       >
                         A-SFP-1G-SX-C
@@ -814,7 +814,7 @@ export default function AxonodeLanding() {
                     <td className="px-6 py-4 text-gray-700">GLC-LH-SMD</td>
                     <td className="px-6 py-4 font-semibold">
                       <a
-                        href="https://www.axonodesolution.com/Industrial_10G_1_25G_SFP-15/18.html"
+                        href="https://www.axonodesolution.com/Industrial_SFP_Transceivers-15/18.html"
                         className="text-blue-600 hover:underline"
                       >
                         A-SFP-1G-LX-C
